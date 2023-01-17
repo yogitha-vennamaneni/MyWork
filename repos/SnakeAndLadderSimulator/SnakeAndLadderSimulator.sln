@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeAndLadderSimulator", "SnakeAndLadderSimulator.csproj", "{2C28AF42-E1A9-4B3B-85EA-5ABAC4EA268D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeAndLadderSimulatorTest", "..\SnakeAndLadderSimulatorTest\SnakeAndLadderSimulatorTest.csproj", "{3DEF9601-D149-42D8-82E9-B38B1958A7AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C28AF42-E1A9-4B3B-85EA-5ABAC4EA268D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C28AF42-E1A9-4B3B-85EA-5ABAC4EA268D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C28AF42-E1A9-4B3B-85EA-5ABAC4EA268D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C28AF42-E1A9-4B3B-85EA-5ABAC4EA268D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DEF9601-D149-42D8-82E9-B38B1958A7AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DEF9601-D149-42D8-82E9-B38B1958A7AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DEF9601-D149-42D8-82E9-B38B1958A7AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DEF9601-D149-42D8-82E9-B38B1958A7AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74D85DF9-EB68-4160-91C0-432A7434DEA9}
+	EndGlobalSection
+EndGlobal

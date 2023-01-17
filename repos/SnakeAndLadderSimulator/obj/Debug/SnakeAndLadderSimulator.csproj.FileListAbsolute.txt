@@ -1,0 +1,7 @@
+C:\Users\yogithavennamaneni\source\repos\SnakeAndLadderSimulator\obj\Debug\SnakeAndLadderSimulator.csproj.AssemblyReference.cache
+C:\Users\yogithavennamaneni\source\repos\SnakeAndLadderSimulator\obj\Debug\SnakeAndLadderSimulator.csproj.CoreCompileInputs.cache
+C:\Users\yogithavennamaneni\source\repos\SnakeAndLadderSimulator\bin\Debug\SnakeAndLadderSimulator.exe.config
+C:\Users\yogithavennamaneni\source\repos\SnakeAndLadderSimulator\bin\Debug\SnakeAndLadderSimulator.exe
+C:\Users\yogithavennamaneni\source\repos\SnakeAndLadderSimulator\bin\Debug\SnakeAndLadderSimulator.pdb
+C:\Users\yogithavennamaneni\source\repos\SnakeAndLadderSimulator\obj\Debug\SnakeAndLadderSimulator.exe
+C:\Users\yogithavennamaneni\source\repos\SnakeAndLadderSimulator\obj\Debug\SnakeAndLadderSimulator.pdb
